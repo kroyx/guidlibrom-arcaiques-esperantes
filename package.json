@@ -1,0 +1,8 @@
+{
+  "name": "guidlibrom-arcaices-esperantes",
+  "version": "1.0.0",
+  "description": "Eta gvidlibro pri arkaika esperanto",
+  "main": "index.js",
+  "author": "Kristian Soto <kroyxlab@gmail.com>",
+  "license": "MIT"
+}
